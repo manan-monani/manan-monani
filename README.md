@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Manan Monani
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Quantitative+Finance+Enthusiast;Deep+Learning+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+%26+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 
-### 🚀 Building Production-Grade AI/ML Systems | 🧠 Deep Learning | 📊 Data Science | 💹 Quant Finance
+### 🚀 Building Production-Grade AI/ML Systems | 🧠 Deep Learning | 📊 Data Science 
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Engineer** specializing in building **production-grade, mathematically rigorous** systems that solve real-world problems. My expertise spans across **Deep Learning**, **Computer Vision**, **NLP**, **Reinforcement Learning**, and **Quantitative Finance**. I believe in writing clean, scalable, and well-documented code backed by solid mathematical foundations.
+I'm a passionate **AI/ML Engineer** specializing in building **production-grade,** systems that solve real-world problems. My expertise spans across **Deep Learning**, **Computer Vision**, **NLP**, **Reinforcement Learning**. I believe in writing clean, scalable, and well-documented code backed by solid mathematical foundations.
 
 ```python
 class MananMonani:
@@ -121,19 +121,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manan-monani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manan-monani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-monani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt="Top Languages" height="170"/>
-
-</div>
-
----
-
 ## 🏆 Core Competencies
 
 <div align="center">
@@ -149,11 +136,6 @@ me.say_hi()
 | **Graph Neural Networks** | GCN, GAT, GraphSAGE, Node Embeddings, Community Detection |
 | **Federated Learning** | FedAvg, Differential Privacy, Secure Aggregation |
 | **Quantitative Finance** | HFT, Stochastic Control, Hawkes Processes, Kalman Filtering |
-
-### 🔧 Engineering Practices
-
-✅ **Production-Ready Code** • ✅ **Docker & Kubernetes** • ✅ **RESTful APIs** • ✅ **Model Optimization** • ✅ **CI/CD Pipelines**  
-✅ **Mixed Precision Training** • ✅ **Distributed Computing** • ✅ **Edge Deployment** • ✅ **Model Quantization** • ✅ **MLOps**
 
 </div>
 
@@ -207,8 +189,8 @@ me.say_hi()
 
 | 🎯 Achievement | 📊 Metric |
 |----------------|-----------|
-| **Production Systems Built** | 8+ End-to-End ML Pipelines |
-| **Model Accuracy** | Up to 99.92% on Imbalanced Data |
+| **Production Systems Built** | 8+ ML Pipelines |
+| **Model Accuracy** | Up to 99 % on Imbalanced Data |
 | **Inference Latency** | Sub-100ms on Edge Devices |
 | **Distributed Training** | Multi-GPU with Ray (10× Speedup) |
 | **Privacy Guarantee** | (ε, δ)-Differential Privacy |
@@ -221,7 +203,6 @@ me.say_hi()
 ## 📈 Current Focus
 
 - 🔭 Working on **Edge AI & Model Compression**
-- 🌱 Learning **MLOps & Kubernetes Orchestration**
 - 👯 Open to collaborate on **AI/ML Research Projects**
 - 💡 Exploring **Multimodal Learning & Vision-Language Models**
 - 📝 Writing technical blogs on **AI Engineering**
@@ -252,9 +233,5 @@ I'm always excited to discuss **AI/ML projects**, **quantitative finance**, **re
 </div>
 
 ---
-
-<div align="center">
-
-*Made with ❤️ by Manan Monani*
 
 </div>
