@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm Manan Monani
 
@@ -222,4 +222,4 @@ I'm always excited to discuss **AI/ML projects**, **quantitative finance**, **re
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-</div>
+</div> -->
