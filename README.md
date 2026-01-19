@@ -1,5 +1,4 @@
-<!-->
-
+<center align="center">
 # 👋 Hi, I'm Manan Monani
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+%26+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
@@ -223,4 +222,3 @@ I'm always excited to discuss **AI/ML projects**, **quantitative finance**, **re
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
-<!-->
