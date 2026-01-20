@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=AI+%26+ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 
-### 🚀 Building Production-Grade AI/ML Systems | 🧠 Deep Learning | 📊 Data Science 
+### 🚀 Building AI/ML Systems | 🧠 Deep Learning | 📊 Data Science 
 
 </div>
 
