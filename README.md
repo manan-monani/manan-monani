@@ -76,7 +76,7 @@ me.say_hi()
 - **Optimization**: Bayesian Optimization (Optuna), Hyperparameter Tuning
 
 ### Optimization & Training
-- **Regularization**: Dropout, Batch Normalization, Layer Normalization, LoRA
+- **Regularization**: Dropout, Batch Normalization, Layer Normalization, LoRA Finetunning
 - **Mixed Precision**: FP16, BF16, INT8 Quantization
 ---
 
