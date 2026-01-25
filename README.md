@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ## 🎯 About Me
 
 I'm a passionate **AI/ML Engineer** specializing in building **production-grade,** systems that solve real-world problems. My expertise spans across **Deep Learning**, **Computer Vision**, **NLP**, **Reinforcement Learning**. I believe in writing clean, scalable, and well-documented code backed by solid mathematical foundations.
@@ -32,6 +30,62 @@ me = MananMonani()
 me.say_hi()
 ```
 
+---
+
+## 🏆 Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🧬 **[Protein Function Prediction(Research)](https://github.com/manan-monani/CAFA-6)** | CAFA 6 competition pipeline with ESM-2 3B & ProtT5-XL for GO term prediction( Research Prediction Competition) | `PyTorch` `Transformers` `H100` `GCP` |
+| 🎓 **[Face Recognition Attendance](https://github.com/manan-monani/Attendance-Management-System-Using-Face-Recognition)** | Enterprise AI/ML biometric system with 95% accuracy using LBPH & Haar Cascade | `Python` `OpenCV` `TensorFlow` `Tkinter` |
+| 🔍 **[GNN Fraud Detection](https://github.com/manan-monani/Distributed-Graph-Neural-Network--GNN--for-Fraud-Detection)** | Distributed Graph Neural Networks for financial fraud & money laundering detection | `PyTorch Geometric` `Ray` `Docker` | 
+| 🏥 **[Federated Learning Healthcare](https://github.com/manan-monani/Federated-Learning-for-Privacy-Preserving-Medical-Imaging)** | Privacy-preserving medical imaging with differential privacy & FedAvg | `PyTorch` `Flower` `Docker` `CUDA` |
+| 💹 **[HFT Market Making Agent](https://github.com/manan-monani/High-Frequency-Trading--HFT--Market-Making-Agent)** | Algorithmic trading with Avellaneda-Stoikov & deep learning (sub-10ms latency) | `PyTorch` `Numba` `Kafka` `Docker` |
+| 🤖 **[Multi-Agent RL Warehouse](https://github.com/manan-monani/Multi-Agent-Reinforcement-Learning--MARL--for-Warehouse-Logistics)** | 50 autonomous robots with MAPPO & Nash equilibrium (98.5% success rate) | `PyTorch` `Ray` `Gymnasium` `CUDA` |
+| 🛡️ **[Defraudo Payment Fraud](https://github.com/manan-monani/Payment-Fraud-Detection-Model)** | Full-stack fraud detection with XGBoost & ensemble learning (99.92% accuracy) | `MERN` `Python` `XGBoost` `MongoDB` | 
+| 🏭 **[Edge Anomaly Detection](https://github.com/manan-monani/Real-time-Anomaly-Detection-on-Edge-via-Quantized-DL)** | INT8 quantized autoencoders for IoT bearing failure (sub-100ms latency) | `PyTorch` `ONNX` `TensorRT` `FastAPI` |
+
+</div>
+
+---
+## 🏆 Core Competencies
+
+<div align="center">
+
+### 🤖 AI/ML Specializations
+
+| Domain | Expertise |
+|--------|-----------|
+| **Deep Learning** | CNNs, RNNs, Transformers, Attention Mechanisms, Autoencoders |
+| **Natural Language Processing** | Protein Language Models, Text Classification, Embeddings |
+| **Reinforcement Learning** | Multi-Agent RL (MAPPO), Nash Equilibrium, Policy Gradient Methods |
+| **Graph Neural Networks** | GCN, GAT, GraphSAGE, Node Embeddings, Community Detection |
+
+</div>
+
+---
+
+## 🎓 Key Algorithms & Methods
+
+<details>
+<summary><b>📚 Click to Expand Algorithm Knowledge Base</b></summary>
+
+### Machine Learning
+- **Ensemble Methods**: XGBoost, Random Forest, LightGBM, Gradient Boosting
+- **Feature Engineering**: PCA, Statistical Aggregations, Temporal Features
+- **Class Imbalance**: SMOTE, Focal Loss, Weighted Loss Functions
+- **Optimization**: Bayesian Optimization (Optuna), Hyperparameter Tuning
+
+### Optimization & Training
+- **Regularization**: Dropout, Batch Normalization, Layer Normalization, LoRA
+- **Mixed Precision**: FP16, BF16, INT8 Quantization
+
+</details>
+
+---
+
 ## 📈 Current Focus
 
 - 🔭 Working on **Edge AI & Model Compression**
@@ -41,23 +95,19 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mananmonani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manan-monani)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mananmonani?si=Ox8sAcMclkKlKTix)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mmmonani747)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mananmonani)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmmonani747@gmail.com)
-
-📍 **Jamnagar, Gujarat, India** &nbsp;&nbsp;|&nbsp;&nbsp; 📞 **+91 70168 53244**
-
-</div>
-
 ## 💬 Let's Connect!
 
 I'm always excited to discuss **AI/ML projects**, **quantitative finance**, **research collaborations**, or just connect with fellow developers and researchers. Feel free to reach out!
+
+<div align="center">
+
+### 📫 How to Reach Me
+
+**Email**: [mmmonani747@gmail.com](mailto:mmmonani747@gmail.com)  
+**LinkedIn**: [linkedin.com/in/mananmonani](https://www.linkedin.com/in/mananmonani)  
+**Portfolio**: [mmmonani.vercel.app](https://mmmonani.vercel.app)  
+**Phone**: +91 70168 53244
+
+---
 
 </div>
