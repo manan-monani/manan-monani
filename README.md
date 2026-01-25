@@ -69,9 +69,6 @@ me.say_hi()
 
 ## 🎓 Key Algorithms & Methods
 
-<details>
-<summary><b>📚 Click to Expand Algorithm Knowledge Base</b></summary>
-
 ### Machine Learning
 - **Ensemble Methods**: XGBoost, Random Forest, LightGBM, Gradient Boosting
 - **Feature Engineering**: PCA, Statistical Aggregations, Temporal Features
@@ -81,9 +78,6 @@ me.say_hi()
 ### Optimization & Training
 - **Regularization**: Dropout, Batch Normalization, Layer Normalization, LoRA
 - **Mixed Precision**: FP16, BF16, INT8 Quantization
-
-</details>
-
 ---
 
 ## 📈 Current Focus
