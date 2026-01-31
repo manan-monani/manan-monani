@@ -30,55 +30,6 @@ me = MananMonani()
 me.say_hi()
 ```
 
----
-
-## 🏆 Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🧬 **[Protein Function Prediction(Research)](https://github.com/manan-monani/CAFA-6)** | CAFA 6 competition pipeline with ESM-2 3B & ProtT5-XL for GO term prediction( Research Prediction Competition) | `PyTorch` `Transformers` `H100` `GCP` |
-| 🎓 **[Face Recognition Attendance](https://github.com/manan-monani/Attendance-Management-System-Using-Face-Recognition)** | Enterprise AI/ML biometric system with 95% accuracy using LBPH & Haar Cascade | `Python` `OpenCV` `TensorFlow` `Tkinter` |
-| 🔍 **[GNN Fraud Detection](https://github.com/manan-monani/Distributed-Graph-Neural-Network--GNN--for-Fraud-Detection)** | Distributed Graph Neural Networks for financial fraud & money laundering detection | `PyTorch Geometric` `Ray` `Docker` | 
-| 🏥 **[Federated Learning Healthcare](https://github.com/manan-monani/Federated-Learning-for-Privacy-Preserving-Medical-Imaging)** | Privacy-preserving medical imaging with differential privacy & FedAvg | `PyTorch` `Flower` `Docker` `CUDA` |
-| 💹 **[HFT Market Making Agent](https://github.com/manan-monani/High-Frequency-Trading--HFT--Market-Making-Agent)** | Algorithmic trading with Avellaneda-Stoikov & deep learning (sub-10ms latency) | `PyTorch` `Numba` `Kafka` `Docker` |
-| 🤖 **[Multi-Agent RL Warehouse](https://github.com/manan-monani/Multi-Agent-Reinforcement-Learning--MARL--for-Warehouse-Logistics)** | 50 autonomous robots with MAPPO & Nash equilibrium (98.5% success rate) | `PyTorch` `Ray` `Gymnasium` `CUDA` |
-| 🛡️ **[Defraudo Payment Fraud](https://github.com/manan-monani/Payment-Fraud-Detection-Model)** | Full-stack fraud detection with XGBoost & ensemble learning (99.92% accuracy) | `MERN` `Python` `XGBoost` `MongoDB` | 
-| 🏭 **[Edge Anomaly Detection](https://github.com/manan-monani/Real-time-Anomaly-Detection-on-Edge-via-Quantized-DL)** | INT8 quantized autoencoders for IoT bearing failure (sub-100ms latency) | `PyTorch` `ONNX` `TensorRT` `FastAPI` |
-
-</div>
-
----
-## 🏆 Core Competencies
-
-<div align="center">
-
-### 🤖 AI/ML Specializations
-
-| Domain | Expertise |
-|--------|-----------|
-| **Deep Learning** | CNNs, RNNs, Transformers, Attention Mechanisms, Autoencoders |
-| **Natural Language Processing** | Protein Language Models, Text Classification, Embeddings |
-| **Reinforcement Learning** | Multi-Agent RL (MAPPO), Nash Equilibrium, Policy Gradient Methods |
-| **Graph Neural Networks** | GCN, GAT, GraphSAGE, Node Embeddings, Community Detection |
-
-</div>
-
----
-
-## 🎓 Key Algorithms & Methods
-
-### Machine Learning
-- **Ensemble Methods**: XGBoost, Random Forest, LightGBM, Gradient Boosting
-- **Feature Engineering**: PCA, Statistical Aggregations, Temporal Features
-- **Class Imbalance**: SMOTE, Focal Loss, Weighted Loss Functions
-- **Optimization**: Bayesian Optimization (Optuna), Hyperparameter Tuning
-
-### Optimization & Training
-- **Regularization**: Dropout, Batch Normalization, Layer Normalization, LoRA Finetunning
-- **Mixed Precision**: FP16, BF16, INT8 Quantization
----
 
 ## 📈 Current Focus
 
