@@ -49,8 +49,7 @@ I'm always excited to discuss **AI/ML projects**, **quantitative finance**, **re
 ### 📫 How to Reach Me
 
 **Email**: [mmmonani747@gmail.com](mailto:mmmonani747@gmail.com)  
-**LinkedIn**: [linkedin.com/in/mananmonani](https://www.linkedin.com/in/mananmonani)  
-**Portfolio**: [mmmonani.vercel.app](https://mmmonani.vercel.app)  
+**LinkedIn**: [linkedin.com/in/mananmonani](https://www.linkedin.com/in/mananmonani) 
 **Phone**: +91 70168 53244
 
 ---
