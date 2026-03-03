@@ -48,7 +48,7 @@ I'm always excited to discuss **AI/ML projects**, **quantitative finance**, **re
 
 ### 📫 How to Reach Me
 
-**Email**: [mmmonani747@gmail.com](mailto:mananmonani01@gmail.com)  
+**Email**: [mananmonani01@gmail.com](mailto:mananmonani01@gmail.com)  
 **LinkedIn**: [linkedin.com/in/mananmonani](https://www.linkedin.com/in/mananmonani)
 
 ---
