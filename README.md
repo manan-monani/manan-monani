@@ -33,7 +33,7 @@ me.say_hi()
 
 ## 📈 Current Focus
 
-- 🔭 Working on **Edge AI & Model Compression**
+- 🔭 Working on **Large Language Model Compression**
 - 👯 Open to collaborate on **AI/ML Research Projects**
 - 💡 Exploring **Multimodal Learning & Vision-Language Models**
 - 📝 Writing technical blogs on **AI Engineering**
